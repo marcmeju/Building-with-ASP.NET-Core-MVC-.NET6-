@@ -1,6 +1,13 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BulkyBook.Models",
+    "\\BulkyBook.Models\\Models",
+    "\\BulkyBook.Utility",
+    "\\BulkyBookWeb",
+    "\\BulkyBookWeb\\Views\\Shared",
+    "\\BulkyBookWeb\\wwwroot\\css"
   ],
+  "SelectedNode": "\\BulkyBookWeb\\BulkyBookWeb.csproj",
   "PreviewInSolutionExplorer": false
 }

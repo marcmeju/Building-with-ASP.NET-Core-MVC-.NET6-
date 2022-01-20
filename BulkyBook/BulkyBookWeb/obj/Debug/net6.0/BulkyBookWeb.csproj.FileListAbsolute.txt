@@ -260,3 +260,14 @@ C:\Users\marce\Desktop\repositories\CSharp\BulkyBook\BulkyBookWeb\bin\Debug\net6
 C:\Users\marce\Desktop\repositories\CSharp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 C:\Users\marce\Desktop\repositories\CSharp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
 C:\Users\marce\Desktop\repositories\CSharp\BulkyBook\BulkyBookWeb\bin\Debug\net6.0\runtimes\win-arm64\lib\net6.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.AssemblyReference.cache
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfoInputs.cache
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.AssemblyInfo.cs
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.csproj.CoreCompileInputs.cache
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cache
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.RazorAssemblyInfo.cs
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.dll
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\ref\BulkyBookWeb.dll
+C:\Users\marce\Desktop\repositories\Building-with-ASP.NET-Core-MVC-.NET6-\BulkyBook\BulkyBookWeb\obj\Debug\net6.0\BulkyBookWeb.pdb
