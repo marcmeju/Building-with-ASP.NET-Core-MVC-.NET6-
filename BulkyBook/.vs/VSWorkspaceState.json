@@ -1,13 +1,16 @@
 {
   "ExpandedNodes": [
     "",
-    "\\BulkyBook.Models",
-    "\\BulkyBook.Models\\Models",
-    "\\BulkyBook.Utility",
+    "\\BulkyBook.DataAccess",
+    "\\BulkyBook.DataAccess\\Data",
+    "\\BulkyBook.DataAccess\\Migrations",
+    "\\BulkyBook.DataAccess\\Repository",
+    "\\BulkyBook.DataAccess\\Repository\\IRepository",
     "\\BulkyBookWeb",
-    "\\BulkyBookWeb\\Views\\Shared",
-    "\\BulkyBookWeb\\wwwroot\\css"
+    "\\BulkyBookWeb\\Controllers",
+    "\\BulkyBookWeb\\Views",
+    "\\BulkyBookWeb\\Views\\Category"
   ],
-  "SelectedNode": "\\BulkyBookWeb\\BulkyBookWeb.csproj",
+  "SelectedNode": "\\BulkyBook.DataAccess\\Repository\\CategoryRepository.cs",
   "PreviewInSolutionExplorer": false
 }
